@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+
+}
+
+.line{
+    height: 6px;
+    width: 100px;
+    background-color: black;
+    margin:8px auto;
+} 
+
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+#apps{
+    background-color: blanchedalmond;
+}
+
+#games{
+
+    background-color: cadetblue;
+}
+
+#chatbot{
+    background-color: peachpuff;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    margin-right: 10px;
+}
